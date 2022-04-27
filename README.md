@@ -6,7 +6,7 @@ A small non-Enyo app demonstrating how to use assets and how to load pages.
 Images
 ======
 
-Images are taken from openclipart.org and are public domain.  The following images were used:
+Images are taken from openclipart.org and are public domain. The following images were used:
 
 Sword: http://openclipart.org/detail/4292/scimitar-redone-by-ryanlerch-4292
 House: http://openclipart.org/detail/181368/fairy-tale-house-by-rdevries-181368
